@@ -6,3 +6,23 @@ h1,p{
 h1{
     font-size: 23px;
 }
+
+.post{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid #333;
+}
+
+.cabecera{
+    background-color: #333;
+    color: white;
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.cabecera span{
+    font-size: 12px;
+    color: whitesmoke;
+}
